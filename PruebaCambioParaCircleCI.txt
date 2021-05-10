@@ -1,0 +1,1 @@
+Texto verificacion CircleCI en rama hotfix
